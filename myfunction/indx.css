@@ -1,0 +1,22 @@
+.container {
+    /* Optional: Set a width for the container if needed */
+    /* width: 500px; Adjust as needed */
+  }
+  
+  .container img {
+    float: left;
+    margin: 10px;
+    height: 50px;
+    width: 50px; /* Add margin for spacing */
+  }
+  
+  .container p {
+    float: right;
+    margin: 10px; /* Add margin for spacing */
+  }
+  /* .container > p:nth-child(1) { */
+    /* float: right; */
+    /* margin: 10px; */
+/* } */
+
+  
